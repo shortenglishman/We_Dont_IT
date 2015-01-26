@@ -1,2 +1,3 @@
 # We_Dont_IT
-university ESD
+
+This is the reposrity of the group We_Dont_IT. 
